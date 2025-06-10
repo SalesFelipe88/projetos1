@@ -1,1 +1,2 @@
-
+nome = 'teste para o git e github'
+print(nome)
